@@ -1,6 +1,6 @@
 # **Resilia - modulo 3 - Grupo 3**
 
-## Banco de dados escolhido: *Steam*
+## Banco de dados escolhido: *NBA*
 
 
 
@@ -10,16 +10,21 @@
 
 ## Para os devs:
 
-### Comando para criar o container que iremos utilizar no projeto.
+### Como acessar o banco no servidor da Resilia no Workbench.
 
-docker run --name modulo03 -d -p xxxx:3306 -e MYSQL_ROOT_PASSWORD=xxxxx -v local_que_vc_quer_salvar:/var/lib/mysql mysql
+- Crie a conexão da seguinte maneira:
+  1. Dê um connection name
+  2. Coloque em hostname o seguinte IP: 3.144.153.204
+  3. Username está no grupo do zapp
+  4. Clique no Password: Store in Vault e ponha o password que está no grupo do zapp
+  5. Clique em ok
+- Entre na conexão criada, as tabelas já estão lá.
 
-#### valores de porta e password estão no grupo do zapp!
+### Como acessar o banco no metabase:
 
-### Comando para iniciar o container:
-
-docker container start modulo03
-
+- Acesse essa URL: http://3.144.153.204/
+- Faça o login usando o usário e senha que estão no grupo do Zapp.
+- Pronto.
 ### Para download do banco de dados venha [Aqui][1] e clique em 'Steam Store Games'
 
 ### Para importar o bd para o mysql workbench:
