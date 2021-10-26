@@ -6,6 +6,10 @@ A ideia principal do projeto era modular um banco com dados de nossa escolha. O 
 fazer um banco de dados com todas as informações da National Basketball Association(N.B.A).
 O banco possui informações detalhadas das partidas, times, jogadores e etc.
 
+## Imagem do banco💻
+
+<img src="./imgBanco.jpeg">
+
 ## Como foi feito?🤔
 
 Recebemos algumas planilhas com os dados das partidas, times, jogadores e etc. E a partir disso
@@ -26,27 +30,31 @@ queries como respostas para tais perguntas e todas elas estão nos códigos do r
 
 ### Ivan Coelho😃
  <ul>
-  <li><a href="https://www.linkedin.com/in/ivancda/"></a>LinkedIn</li>
+  <li><a href="https://www.linkedin.com/in/ivancda/">LinkedIn</a></li>
   <li><a href="https://github.com/ivancda">Github</a></li>
 </ul>
+
 ### Isabella Sales🤗
  <ul>
-  <li><a href="#"></a>LinkedIn</li>
+  <li><a href="#">LinkedIn</a></li>
   <li><a href="https://github.com/IsabellaSSantos">Github</a></li>
 </ul>
+
 ### João Victor Moura😁
  <ul>
-  <li><a href="linkedin.com/in/jovimoura10/"></a>LinkedIn</li>
+  <li><a href="linkedin.com/in/jovimoura10/">LinkedIn</a></li>
   <li><a href="https://github.com/jovimoura">Github</a></li>
 </ul>
+
 ### Letícia Bedoni😉
  <ul>
-  <li><a href="https://www.linkedin.com/in/leticia-souza04/"></a>LinkedIn</li>
+  <li><a href="https://www.linkedin.com/in/leticia-souza04/">LinkedIn</a></li>
   <li><a href="https://github.com/leticiabedoni">Github</a></li>
 </ul>
+
 ### Renan Martins😎
  <ul>
-  <li><a href="#"></a>LinkedIn</li>
+  <li><a href="#">LinkedIn</a></li>
   <li><a href="https://github.com/renanmartins1813">Github</a></li>
 </ul>
 
