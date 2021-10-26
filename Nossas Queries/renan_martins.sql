@@ -1,0 +1,35 @@
+-- 7 - Qual time obteve mais vitórias como visitante em 2003?
+SELECT
+	T.name,
+    T.abbrev,
+    COUNT(G.HOME_TEAM_WINS) AS TOTAL_VITORIAS
+FROM GAME AS G
+INNER JOIN
+	TEAM AS T
+	ON G.TEAM_ID_home = T.team_id 
+WHERE
+	G.HOME_TEAM_WINS = 1
+    AND SEASON = 2003
+GROUP BY
+	T.team_id
+ORDER BY
+	TOTAL_VITORIAS
+    DESC;
+
+
+-- 10 - Qual Jogador possui mais assistências na temporada de 2009?
+SELECT
+	P.NAME,
+	SUM(GT.ASSIST) AS TOTAL_ASSIST,
+    P.SEASON
+FROM GAME_DETAIL AS GT
+INNER JOIN PLAYER AS P
+	ON P.PLAYER_ID = GT.PLAYER_ID
+WHERE
+	P.SEASON = 2009
+GROUP BY
+	GT.PLAYER_ID
+ORDER BY
+	TOTAL_ASSIST
+    DESC
+LIMIT 1;
