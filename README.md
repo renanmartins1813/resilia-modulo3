@@ -1,12 +1,55 @@
-# **Resilia - modulo 3 - Grupo 3**
+# **Resilia - modulo 3 - Grupo 3🚀**
 
-## Banco de dados escolhido: *NBA*
+## Banco de dados escolhido: *NBA*🏀
+
+A ideia principal do projeto era modular um banco com dados de nossa escolha. O grupo decidiu
+fazer um banco de dados com todas as informações da National Basketball Association(N.B.A).
+O banco possui informações detalhadas das partidas, times, jogadores e etc.
+
+## Como foi feito?🤔
+
+Recebemos algumas planilhas com os dados das partidas, times, jogadores e etc. E a partir disso
+modulamos o banco de dados, utilizando o MySQL e usamos o Docker para os testes. Primeiro criamos o banco e depois criamos algumas
+tabelas, como: GAME, GAME_DETAIL, PLAYER e TEAM. Logo após a criação do banco, subimos ele para
+o servidor da Resilia para ser avaliado e testado. Também fizemos algumas perguntas e utilizamos
+queries como respostas para tais perguntas e todas elas estão nos códigos do repositório.
 
 
+## Tecnologias utilizadas🦉
 
+<ul>
+  <li>MySQL</li>
+  <li>Docker</li>
+</ul>
 
+## Autores😊
 
-------------
+### Ivan Coelho😃
+ <ul>
+  <li><a href="https://www.linkedin.com/in/ivancda/"></a>LinkedIn</li>
+  <li><a href="https://github.com/ivancda">Github</a></li>
+</ul>
+### Isabella Sales🤗
+ <ul>
+  <li><a href="#"></a>LinkedIn</li>
+  <li><a href="https://github.com/IsabellaSSantos">Github</a></li>
+</ul>
+### João Victor Moura😁
+ <ul>
+  <li><a href="linkedin.com/in/jovimoura10/"></a>LinkedIn</li>
+  <li><a href="https://github.com/jovimoura">Github</a></li>
+</ul>
+### Letícia Bedoni😉
+ <ul>
+  <li><a href="https://www.linkedin.com/in/leticia-souza04/"></a>LinkedIn</li>
+  <li><a href="https://github.com/leticiabedoni">Github</a></li>
+</ul>
+### Renan Martins😎
+ <ul>
+  <li><a href="#"></a>LinkedIn</li>
+  <li><a href="https://github.com/renanmartins1813">Github</a></li>
+</ul>
+
 
 ## Para os devs:
 
