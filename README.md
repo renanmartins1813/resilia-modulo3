@@ -25,7 +25,7 @@
 - Acesse essa URL: http://3.144.153.204/
 - Faça o login usando o usário e senha que estão no grupo do Zapp.
 - Pronto.
-### Para download do banco de dados venha [Aqui][1] e clique em 'Steam Store Games'
+### Para download do banco de dados venha [Aqui][1] e clique em 'NBA'
 
 ### Para importar o bd para o mysql workbench:
 
